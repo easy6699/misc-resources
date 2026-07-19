@@ -17,3 +17,7 @@ https://devin.ai/
 https://aws.amazon.com/q/developer/
 
 https://zed.dev/
+
+## Cybersecurity
+
+https://www.ransomlook.io/
