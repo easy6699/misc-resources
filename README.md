@@ -35,7 +35,3 @@ https://darkport.org/
 https://en.metal-tracker.com/
 
 https://www.angrymetalguy.com/
-
-## Trading
-
-https://re-point.net/trading-bots
